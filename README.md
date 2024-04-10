@@ -6,7 +6,7 @@ The hash table uses chaining. After implementing a hash table, I use it to imple
 Heaps-and-Treaps-Student:<br>
 This is an implementation of a Heap and also a Treap data structure from my CS 210 Data Structures college class.
 The skeleton of the project was written by my professor Marc and the functions were completed by me.
-
+<br>
 List-Implementation-Student:<br> 
 This is an implementation of an ArrayList and a LinkedList data structure from my CS 210 Data Structures college class.
 The skeleton of the project was written by my professor Marc and the functions were completed by me.
